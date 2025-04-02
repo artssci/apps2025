@@ -29,7 +29,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
     <h3>App Name 1</h3>
     <p>Short description of App 1.</p>
     <p><strong>Creators:</strong> Student Names</p>
-    <a href="app1-download-link" target="_blank">Download</a>
+    <a href="app1-download-link" target="_blank">Download for macOS</a>
   </div>
 
   <div class="app-card">
@@ -81,8 +81,8 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app8.jpg" alt="App 8">
-    <h3>App Name 8</h3>
+    <img src="weatherapp.png" alt="App 8">
+    <h3>The Weather App</h3>
     <p>Short description of App 8.</p>
     <p><strong>Creators:</strong> Student Names</p>
     <a href="app8-download-link" target="_blank">Download</a>
