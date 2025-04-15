@@ -1,6 +1,6 @@
-# Student-Made Apps Showcase
+# ARTSSCI 3C03 - Apps Showcase 2025
 
-Welcome to our app showcase! Here are 9 amazing apps created by our students.
+Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 students.
 
 <style>
   .app-grid {
