@@ -41,7 +41,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="images/app3.jpg" alt="App 3">
+    <img src="images/app3.png" alt="App 3">
     <h3>🧠 Anatomy Lab</h3>
     <p>Short description of App 3.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -81,7 +81,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="images/weatherapp.png" alt="App 8">
+    <img src="images/app8.png" alt="App 8">
     <h3>🌦️ The Weather App</h3>
     <p>Short description of App 8.</p>
     <p><strong>Creators:</strong> Student Names</p>
