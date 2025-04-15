@@ -25,7 +25,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
 <div class="app-grid">
   
   <div class="app-card">
-    <img src="app1.jpg" alt="App 1">
+    <img src="images/app1.png" alt="App 1">
     <h3>🥕 Rapid Recipes App</h3>
     <p>Short description of App 1.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -33,7 +33,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app2.jpg" alt="App 2">
+    <img src="images/app2.png" alt="App 2">
     <h3>🥗 Healthy Meal Ration Calculator</h3>
     <p>Short description of App 2.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -41,7 +41,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app3.jpg" alt="App 3">
+    <img src="images/app3.jpg" alt="App 3">
     <h3>🧠 Anatomy Lab</h3>
     <p>Short description of App 3.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -49,7 +49,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app4.jpg" alt="App 4">
+    <img src="images/app4.png" alt="App 4">
     <h3>😺 Mellow The App</h3>
     <p>Short description of App 4.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -57,7 +57,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app5.jpg" alt="App 5">
+    <img src="images/app5.png" alt="App 5">
     <h3>📍Explore Toronto App</h3>
     <p>Short description of App 5.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -65,7 +65,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app6.jpg" alt="App 6">
+    <img src="images/app6.png" alt="App 6">
     <h3>🌱 Plant Care App</h3>
     <p>Short description of App 6.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -73,7 +73,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="app7.jpg" alt="App 7">
+    <img src="images/app7.png" alt="App 7">
     <h3>📝 Word Processor App</h3>
     <p>Short description of App 7.</p>
     <p><strong>Creators:</strong> Student Names</p>
@@ -89,7 +89,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by our students.
   </div>
 
   <div class="app-card">
-    <img src="images/app9.jpg" alt="App 9">
+    <img src="images/app9.png" alt="App 9">
     <h3>🧐 Fake or Fact App</h3>
     <p>Short description of App 9.</p>
     <p><strong>Creators:</strong> Student Names</p>
