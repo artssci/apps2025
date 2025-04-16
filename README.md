@@ -61,7 +61,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
     <h3>📍Explore Toronto App</h3>
     <p>Explore Toronto is an interactive app that invites users to discover the city’s diverse neighborhoods, using a playful capybara mascot to navigate an informative map and learn more about Toronto’s rich history and culture.</p>
     <p><strong>Creators:</strong> Helen Wu, Ella Tsang, and Amanda Stekel.</p>
-    <a href="app5-download-link" target="_blank">Download</a>
+    <a href="https://mcmasteru365-my.sharepoint.com/:f:/g/personal/navarrol_mcmaster_ca/Erams_72PKRJsN8CYTyGA3EBMS4_YlGIChw5bFzxkzJj4w?download=1" target="_blank">Download</a>
   </div>
 
   <div class="app-card">
