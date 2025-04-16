@@ -37,7 +37,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
     <h3>🥗 Healthy Meal Ratio Calculator</h3>
     <p>The Healthy Meal Ratio Calculator helps users assess whether their meals meet Canada’s Food Guide standards, providing insights into nutritional balance and suggestions for improvement.</p>
     <p><strong>Creators:</strong> Xin Law-Gallagher, Damian Salama, and Akash Mehta.</p>
-    <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/EZTs7-Jduk1Knojld69A1F0B8GFkVJyhgsBeyGyZjqvoBg?download=1" target="_blank">Download</a>
+    <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/EZTs7-Jduk1Knojld69A1F0B8GFkVJyhgsBeyGyZjqvoBg?download=1" target="_blank">Download for MacOS</a>
   </div>
 
   <div class="app-card">
