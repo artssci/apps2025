@@ -45,7 +45,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
     <h3>🧠 Anatomy Lab</h3>
     <p>Anatomy Lab is an interactive app designed to explore the human body.</p>
     <p><strong>Creators:</strong> Harmil Kalia, Ally Pei-Middleton, and Nimra Atiq</p>
-    <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/EQ3YscxWEwdJgLI4sd5PIH4B5dAGOeHQ4B5eJlWzSE19mg?e=taudje" target="_blank">Download for MacOS</a>
+    <a href="https://mcmasteru365-my.sharepoint.com/download:u:/g/personal/navarrol_mcmaster_ca/EQ3YscxWEwdJgLI4sd5PIH4B5dAGOeHQ4B5eJlWzSE19mg?e=taudje" target="_blank">Download for MacOS</a>
   </div>
 
   <div class="app-card">
