@@ -17,7 +17,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
   .app-card img {
     width: 100%;
     max-height: 150px;
-    object-fit: cover;
+/*     object-fit: cover; */
     border-radius: 5px;
   }
 </style>
