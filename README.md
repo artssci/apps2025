@@ -27,7 +27,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
   <div class="app-card">
     <img class="mainImage" src="images/app1.png" alt="App 1">
     <h3>🥕 Rapid Recipes App</h3>
-    <p>Rapid Recipes is an app designed to help university students plan affordable, balanced meals by sorting recipes by price and food groups, while also allowing users to track grocery lists to minimize waste and make healthier meal choices.</p>
+    <p>Rapid Recipes is an app designed to help university students plan affordable, balanced meals by sorting recipes by price and food groups, while also allowing users to write grocery lists.</p>
     <p><strong>Creators:</strong> Sarah Greene, Jordan Norry, and Andie Sheehan.</p>
     <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/EfsJHUy4VNBKnIod26qhIf0B_kyJedLRsbKGaPjKl_JL4w?download=1" target="_blank">
          <img src="images/macicon.png" alt="macOS icon" style="height: 20px; vertical-align: middle; margin-right: 8px;">
@@ -49,7 +49,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
   <div class="app-card">
     <img  class="mainImage" src="images/app3.png" alt="App 3">
     <h3>🧠 Anatomy Lab</h3>
-    <p>Anatomy Lab is an interactive app designed to explore the human body.</p>
+    <p>Anatomy Lab is an interactive app designed for children to explore the human body, featuring engaging information and beautiful illustrations that make learning fun and easy.</p>
     <p><strong>Creators:</strong> Harmil Kalia, Ally Pei-Middleton, and Nimra Atiq</p>
     <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/EQ3YscxWEwdJgLI4sd5PIH4B5dAGOeHQ4B5eJlWzSE19mg?download=1" target="_blank">
            <img src="images/macicon.png" alt="macOS icon" style="height: 20px; vertical-align: middle; margin-right: 8px;">
@@ -66,6 +66,7 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
            <img src="images/windowsicon.png" alt="macOS icon" style="height: 20px; vertical-align: middle; margin-right: 8px;">
       Download for Windows
     </a>
+    <br>
     <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/Ef6ZVetfvQNJtUpfMagOs4oBz9ib_yI55GUfdSE8mwGMug?download=1" target="_blank">
            <img src="images/macicon.png" alt="macOS icon" style="height: 20px; vertical-align: middle; margin-right: 8px;">
       Download for macOS
@@ -97,8 +98,8 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
   <div class="app-card">
     <img  class="mainImage" src="images/app7.png" alt="App 7">
     <h3>📝 Word Processor App</h3>
-    <p>Short description of App 7.</p>
-    <p><strong>Creators:</strong> Student Names</p>
+    <p>WordProcessor App is a clean and user-friendly tool for writing, editing, and organizing text documents—perfect for students, professionals, and anyone who needs a simple yet powerful writing space.</p>
+    <p><strong>Creators:</strong> Evan Tyler and Beckett Woolridge.</p>
     <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/EehNb0v3B9BBqa_7V9WyHukBtvrUiGLromU8c8iuw3xM6w?download=1" target="_blank">
                  <img src="images/windowsicon.png" alt="macOS icon" style="height: 20px; vertical-align: middle; margin-right: 8px;">
       Download for Windows
@@ -108,8 +109,8 @@ Welcome to our app showcase! Here are 9 amazing apps created by ARTSSCI 3C03 stu
   <div class="app-card">
     <img  class="mainImage" src="images/app8.png" alt="App 8">
     <h3>🌦️ The Weather App</h3>
-    <p>Short description of App 8.</p>
-    <p><strong>Creators:</strong> Student Names</p>
+    <p>The Weather App provides users with simple, real-time weather updates and forecasts to help plan their day, featuring clear visuals and easy access to local conditions.</p>
+    <p><strong>Creators:</strong> Anna Richardson	and Michelle Bromberg.</p>
    <a href="https://mcmasteru365-my.sharepoint.com/:u:/g/personal/navarrol_mcmaster_ca/ERhR_doc6rRAgHQAEvze8lkBJsFW4bFlf_NDqjwzXfw99A?download=1" target="_blank">
   <img src="images/macicon.png" alt="macOS icon" style="height: 20px; vertical-align: middle; margin-right: 8px;">
   Download for macOS
